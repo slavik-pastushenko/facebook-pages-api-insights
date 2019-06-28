@@ -1,2 +1,3 @@
 # Facebook-Pages-API-metrics
-List of metrics (Facebook Pages API)
+
+Compiled a list of all available metrics and categorizing them according to https://developers.facebook.com/docs/graph-api/reference/v3.3/insights
